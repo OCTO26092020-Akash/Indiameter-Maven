@@ -15,7 +15,7 @@ public class HelloController {
 	@RequestMapping("/data")
 	public String dataDisplay()
 	{
-		return "Hello this is Indiameter project";
+		return "Hello, This is Indiameter project";
 	}
 
 }
